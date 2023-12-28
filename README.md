@@ -26,7 +26,7 @@ The File Search Application is a Java program that allows users to search for sp
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/file-search-app.git
+    git clone [https://github.com/your-username/file-search-app.git](https://github.com/VID369/File-Finder-Application.git)
     ```
 
 2. Navigate to the project directory.
