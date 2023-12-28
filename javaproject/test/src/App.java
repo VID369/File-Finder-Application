@@ -7,10 +7,6 @@ import javax.swing.JTextArea;
 
 
 public class App {
-
-    private static JTextArea resultArea;
-    private static JLabel fileCountLabel;
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
