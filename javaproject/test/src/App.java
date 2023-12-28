@@ -2,10 +2,6 @@ import java.io.File;
 import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import javax.swing.JLabel;
-import javax.swing.JTextArea;
-
-
 public class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
